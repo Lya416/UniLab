@@ -21,3 +21,12 @@ Generated from local run logs for PR validation comments.
 - Best mean reward: 40.72710418701172
 - Checkpoint: `model_14999.pt`
 
+## Go2FootStand / Motrix
+
+- Run: `logs/rsl_rl_ppo/Go2FootStand/2026-07-01_14-28-15_motrix`
+- Completed iterations: 9999
+- Total env steps: 245760000
+- Final mean reward: 34.502136037891034
+- Best mean reward: 56.10993576049805
+- Checkpoint used for playback: `model_9999.pt`
+- Playback video: `play_video.mp4`
